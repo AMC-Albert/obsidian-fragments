@@ -1,7 +1,7 @@
 {
 	"id": "video-fragments",
 	"name": "Video Fragments",
-	"version": "0.1.7",
+	"version": "0.1.8",
 	"minAppVersion": "1.8.10",
 	"description": "Trim and timestamp videos non-destructively.",
 	"author": "Albert O'Shea",

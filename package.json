@@ -1,6 +1,6 @@
 {
 	"name": "video-fragments",
-	"version": "0.1.7",
+	"version": "0.1.8",
 	"description": "Trim and timestamp videos non-destructively.",
 	"main": "main.js",
 	"scripts": {
